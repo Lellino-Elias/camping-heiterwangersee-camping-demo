@@ -161,7 +161,7 @@ const campingHeiterwangersee: CampsiteConfig = {
   },
 
   galerie: {
-    heading: "Sommertage am Heiterwanger See",
+    heading: "Sommertage am Heiterwanger See",
     headingEmphasis: "Heiterwanger See",
     intro: "Smaragdgrünes Wasser, Wiese bis ans Ufer und Berge ringsum — ein paar Eindrücke vom Platz.",
     tag: "Mai bis Oktober",
