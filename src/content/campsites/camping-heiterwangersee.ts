@@ -34,7 +34,7 @@ const campingHeiterwangersee: CampsiteConfig = {
     {
       title: "Stellplätze mit Bergblick",
       text: "Ebene Stell- und Zeltplätze auf der Wiese — morgens zuerst der Blick auf See und Gipfel.",
-      image: { src: `${IMG}/activity-405341724c.webp`, alt: "Wohnwagen auf der Campingwiese am Heiterwanger See mit Bergkulisse" },
+      image: { src: `${IMG}/activity-95177a775e.webp`, alt: "Drohnenblick auf den Campingplatz am Heiterwanger See mit türkisem Wasser und Bergpanorama" },
     },
     {
       title: "Mitten in der Zugspitz Arena",
@@ -146,7 +146,7 @@ const campingHeiterwangersee: CampsiteConfig = {
       {
         title: "Schifffahrt über zwei Seen",
         text: "Die MS Margarethe und MS Wilhelm bringen dich gemütlich über Heiterwanger See und Plansee.",
-        image: { src: `${IMG}/gallery-57e7c77c52.webp`, alt: "Ausflugsschiff auf dem Heiterwanger See vor alpiner Kulisse" },
+        image: { src: `${IMG}/activity-865d0144a1.webp`, alt: "Ausflugsschiff legt am Steg des Camping Heiterwanger See an, türkiser See und Berge im Hintergrund" },
       },
     ],
   },
@@ -169,7 +169,7 @@ const campingHeiterwangersee: CampsiteConfig = {
     images: [
       { src: `${IMG}/activity-62baa1f1ac.webp`, alt: "Stand-up-Paddler auf dem türkisen Wasser unter einer Holzbrücke" },
       { src: `${IMG}/hero-ef2557352c.webp`, alt: "Bootshaus und Hotel am Heiterwanger See mit spiegelnder Bergkulisse" },
-      { src: `${IMG}/gallery-bbefe0f37b.webp`, alt: "Camper entspannt im Stuhl vor Wohnwagen und Bergpanorama" },
+      { src: `${IMG}/activity-8d0fd49a02.webp`, alt: "Ruderboote im historischen Bootshaus am Heiterwanger See mit türkisem Wasser" },
       { src: `${IMG}/gallery-39048eb02f.webp`, alt: "Abendlicht über dem Campingplatz und dem Heiterwanger See aus der Luft" },
     ],
   },
